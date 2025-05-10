@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.zip
+*.egg-info/
+*.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Git stuff
+.git
+.gitignore
+
+# IDEs
+.vscode/
+.idea/
